@@ -6,4 +6,4 @@ module.exports = ('./prod');
 //we are not in prod
 module.exports = require('./dev');
 
-}
+};
